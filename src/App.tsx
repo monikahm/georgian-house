@@ -8,6 +8,7 @@ function App() {
 
       <h1 >Georgian House</h1>
       <img src={MTEVino} alt='MTEVino Logo'/>
+      <p>Kontakt: <a href='mailto: darmuz68@mail.com'>darmuz68@mail.com</a></p>
     </div>
 
       <h2 className=" ">Georia - Cradle of Wine</h2>
